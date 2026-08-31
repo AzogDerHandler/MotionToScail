@@ -145,22 +145,8 @@ Without smplx, a simplified approximation will be used.
 - Motion formats: SMPL, HumanML3D
 - Pose detection: DWPose, OpenPose
 
-## License
 
-MIT License - See LICENSE file for details
 
-## Citation
-
-If you use this in your research, please cite:
-
-```bibtex
-@software{comfyui_motiontoscail,
-  title={ComfyUI-MotionToSCAIL},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/ComfyUI-MotionToSCAIL}
-}
-```
 
 ## Contributing
 
